@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Lighting Control</string>
+    <string name="api_base_url">https://vu-nit3213-api.onrender.com</string>
+    <string name="error_login_failed">Login failed with code: </string>
+    <string name="details_screen_description">Login Screen: Allows users to log in with their username and password.\n\n
+        Dashboard Screen: Displays a list of entities fetched from the API.\n\n
+        Details Screen: Shows detailed information about a selected entity.</string>
+</resources>
